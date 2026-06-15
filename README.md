@@ -16,7 +16,7 @@ over time. LED (with R2= 330Ω) indicates that test is running.
 ## Components
 
 Component 
-Arduino Uno   Q2(IRFZ44N)  R1(10Ω)   R2, R3(330Ω)  LED(5mm) 
+Arduino Uno ,  Q2(IRFZ44N),  R1(10Ω)  , R2 R3(330Ω) , LED(5mm) 
 
 ## Schematic
 
