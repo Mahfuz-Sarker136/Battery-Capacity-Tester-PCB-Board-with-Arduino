@@ -15,12 +15,8 @@ over time. LED (with R2= 330Ω) indicates that test is running.
 
 ## Components
 
-| Component | Value | Purpose |
-| Arduino   | Uno   | Main controller |
-| Q2        | NMOS  | Discharge switch |
-| R1        | 10Ω   | Discharge load |
-| R2, R3    | 330Ω  | current limit |
-| LED       | 5mm   | Status indicator |
+Component 
+Arduino Uno   Q2(IRFZ44N)  R1(10Ω)   R2, R3(330Ω)  LED(5mm) 
 
 ## Schematic
 
